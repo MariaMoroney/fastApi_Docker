@@ -4,7 +4,7 @@ Este repositorio contiene una API sencilla desarrollada con FastAPI y containeri
 
 ## Descripción del Proyecto
 
-Este proyecto fue desarrollado como parte del Trabajo Práctico 3. Consiste en una API básica que implementa varias rutas y está configurada para ejecutarse dentro de un contenedor Docker.
+Este proyecto consiste en una API básica que implementa varias rutas y está configurada para ejecutarse dentro de un contenedor Docker.
 
 ## Estructura del Proyecto
 
